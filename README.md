@@ -1,2 +1,3 @@
-# PrzetwarzanieZbiorowDanych
+# Przetwarzanie Zbiorow Danych
+
 Pandas
