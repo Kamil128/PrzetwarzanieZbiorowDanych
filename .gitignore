@@ -130,3 +130,7 @@ dmypy.json
 
 # PyChamr
 .idea
+
+# data
+*.csv
+*.pkl
